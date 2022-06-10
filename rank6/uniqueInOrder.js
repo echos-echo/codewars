@@ -1,5 +1,5 @@
 /*
-**  name: last
+**  name: uniqueInOrder
 **  parameter(s):
 **      iterable        a sequence (either string or array)
 **
